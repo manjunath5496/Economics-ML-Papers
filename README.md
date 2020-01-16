@@ -14,12 +14,12 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-ML-Papers/blob/master/eml(7).pdf" style="text-decoration:none;">Scalable Price Targeting</a></b></li>
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-ML-Papers/blob/master/eml(8).pdf" style="text-decoration:none;">Economic Predictions with Big Data: The Illusion of Sparsity </a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-ML-Papers/blob/master/eml(9).pdf" style="text-decoration:none;"> Artificial Intelligence, Automation, and the Economy </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-ML-Papers/blob/master/emI(9).pdf" style="text-decoration:none;"> Artificial Intelligence, Automation, and the Economy </a></b></li>
    
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-ML-Papers/blob/master/eml(10).pdf" style="text-decoration:none;">Artificial Intelligence and Economic Growth</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-ML-Papers/blob/master/emI(10).pdf" style="text-decoration:none;">Artificial Intelligence and Economic Growth</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-ML-Papers/blob/master/eml(11).pdf" style="text-decoration:none;">Artificial Intelligence, Economics, and Industrial Organization</a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-ML-Papers/blob/master/eml(12).pdf" style="text-decoration:none;"> Machine Learning and the Market for Intelligence III Notes </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-ML-Papers/blob/master/emI(11).pdf" style="text-decoration:none;">Artificial Intelligence, Economics, and Industrial Organization</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-ML-Papers/blob/master/emI(12).pdf" style="text-decoration:none;"> Machine Learning and the Market for Intelligence III Notes </a></b></li>
    
    
    
